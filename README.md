@@ -5,17 +5,13 @@ iOS Developer
 - Email : wjdgo50@gmail.com
 - Github : https://github.com/wjdgo813
 
-<br/>
-
-### 경력
+## 경력
 
 [AfreecaTV](http://www.afreecatv.com/)
 
 - 2016.3 ~ now
 
-<br/>
-
-### 회사 프로젝트
+## 회사 프로젝트
 
 - 소속 : VOD본부 VOD플랫폼팀
 - 역할 : iOS 앱 개발
@@ -53,9 +49,7 @@ iOS Developer
   - 동영상 댓글 개편
     - UICollectionViewDelegate, UICollectionViewDataSource
 
-<br/>
-
-### 활동
+## 활동
 
 NEXTERS 11th CEO
 
@@ -70,9 +64,7 @@ UNITHON 6th 운영진
 
 - [링크](https://www.facebook.com/unithonWithU/)
 
-<br/>
-
-### 개인 프로젝트
+## 개인 프로젝트
 
 ##### 아맞다
 
