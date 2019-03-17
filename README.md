@@ -72,8 +72,8 @@ UNITHON 6th 운영진
 
 - 기간 : 2019.01 ~ 진행중 
 - 사용기술 : Swift, RxSwift, Realm, SnapKit
-- 아키텍쳐 : MVC, VIPER
-- [Git주소](https://github.com/Nexters/Amatda-iOS)
+- 아키텍쳐 : MVC, MVVM
+- [Github Repository](https://github.com/Nexters/Amatda-iOS)
 
 <br/>
 
@@ -85,6 +85,7 @@ UNITHON 6th 운영진
 - 사용기술 : Swift, RxSwift
 - 아키텍쳐 : MVC, MVVM, VIPER
 - [Appstore](https://itunes.apple.com/kr/app/tiptap/id1439433799?mt=8)
+- [Github Repository](https://github.com/wjdgo813/TipTap_iOS)
 
 <br/>
 
@@ -96,6 +97,7 @@ UNITHON 6th 운영진
 - 사용기술 : Swift
 - 아키텍쳐 : MVC, MVVM
 - [Appstore](https://itunes.apple.com/kr/app/%EB%AC%B4%EB%8D%A4%EB%8D%A4-%EC%9D%B5%EB%AA%85-sns-moodumdum/id1380253516?mt=8)
+- [Github Repository](https://github.com/wjdgo813/iOS-Moodumdum)
 
 
 
