@@ -43,10 +43,10 @@ iOS Developer
     - AVPlayer, CollectionViewController
   - 아프리카TV OSS 라이센스 리스트 추가 (2017.01 ~ 2017.03)
     - OSS 라이센스 정리 후 리스트 출력
-  - 라이브 플레이어 구조 수정
+  - 라이브 플레이어 구조 수정 (2016.09 ~ 2016.12)
     - Non-ARC -> ARC 작업
     - AutoLayout 적용
-  - 동영상 댓글 개편
+  - 동영상 댓글 개편 (2016.06 ~ 2016.09)
     - UICollectionViewDelegate, UICollectionViewDataSource
 
 ## 활동
