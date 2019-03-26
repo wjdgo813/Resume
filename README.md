@@ -1,3 +1,5 @@
+
+
 # Resume
 
 iOS Developer
@@ -13,10 +15,11 @@ iOS Developer
 
 ## 회사 프로젝트
 
-- 소속 : VOD본부 VOD플랫폼팀
+- 소속 : AfreecaTV VOD본부 VOD플랫폼팀
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift, Objective - C, Realm, RxSwift
 - AppStore : [링크](https://itunes.apple.com/kr/app/%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4tv-afreecatv-korean/id334185830?mt=8)
+
 - 업무내용
   - 라이브 플레이어 개편 (2019.01 ~ 진행중) 
     - RxSwift를 이용하여 커스텀 액션 시트 작업
@@ -44,10 +47,12 @@ iOS Developer
   - 아프리카TV OSS 라이센스 리스트 추가 (2017.01 ~ 2017.03)
     - OSS 라이센스 정리 후 리스트 출력
   - 라이브 플레이어 구조 수정 (2016.09 ~ 2016.12)
-    - Non-ARC -> ARC 작업
+    - MRC -> ARC 작업
     - AutoLayout 적용
   - 동영상 댓글 개편 (2016.06 ~ 2016.09)
     - UICollectionViewDelegate, UICollectionViewDataSource
+
+<img src="./devPicture/AfreecaTV/afreeca_1.jpeg" width="180"> <img src="./devPicture/AfreecaTV/afreeca_2.jpeg" width="180"> <img src="./devPicture/AfreecaTV/afreeca_3.jpeg" width="180"> <img src="./devPicture/AfreecaTV/afreeca_4.jpeg" width="180">
 
 ## 활동
 
@@ -75,6 +80,8 @@ UNITHON 6th 운영진
 - 아키텍쳐 : MVC, MVVM
 - [Github Repository](https://github.com/Nexters/Amatda-iOS)
 
+<img src="./devPicture/Amatda/Amatda_1.jpeg" width="180"><img src="./devPicture/Amatda/Amatda_2.jpeg" width="180"><img src="./devPicture/Amatda/Amatda_3.jpeg" width="180"><img src="./devPicture/Amatda/Amatda_4.jpeg" width="180">
+
 <br/>
 
 ##### TipTap
@@ -87,6 +94,8 @@ UNITHON 6th 운영진
 - [Appstore](https://itunes.apple.com/kr/app/tiptap/id1439433799?mt=8)
 - [Github Repository](https://github.com/wjdgo813/TipTap_iOS)
 
+<img src="./devPicture/tiptap/tiptap.png" width="700">
+
 <br/>
 
 ##### 무덤덤
@@ -98,6 +107,8 @@ UNITHON 6th 운영진
 - 아키텍쳐 : MVC, MVVM
 - [Appstore](https://itunes.apple.com/kr/app/%EB%AC%B4%EB%8D%A4%EB%8D%A4-%EC%9D%B5%EB%AA%85-sns-moodumdum/id1380253516?mt=8)
 - [Github Repository](https://github.com/wjdgo813/iOS-Moodumdum)
+
+<img src="./devPicture/Moodumdum/Moodumdum_4.jpeg" width="180"><img src="./devPicture/Moodumdum/Moodumdum_3.jpeg" width="180"><img src="./devPicture/Moodumdum/Moodumdum_2.jpeg" width="180"><img src="./devPicture/Moodumdum/Moodumdum_1.jpeg" width="180">
 
 
 
