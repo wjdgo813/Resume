@@ -5,6 +5,7 @@
 iOS Developer
 
 - Email : wjdgo50@gmail.com
+- Facebook : https://www.facebook.com/wjdgo813
 - Github : https://github.com/wjdgo813
 
 ## 경력
