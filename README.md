@@ -4,6 +4,8 @@
 
 iOS Developer
 
+- 이름 : 정해현 
+- 연락처 : 010-2543-6349
 - Email : wjdgo50@gmail.com
 - Facebook : https://www.facebook.com/wjdgo813
 - Github : https://github.com/wjdgo813
