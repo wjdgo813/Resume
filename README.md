@@ -53,7 +53,7 @@ iOS Developer
   - 동영상 댓글 개편 (2016.06 ~ 2016.09)
     - UICollectionViewDelegate, UICollectionViewDataSource
 
-<img src="./devPicture/AfreecaTV/afreeca_1.jpeg" width="180"> <img src="./devPicture/AfreecaTV/afreeca_2.jpeg" width="180"> <img src="./devPicture/AfreecaTV/afreeca_3.jpeg" width="180"> <img src="./devPicture/AfreecaTV/afreeca_4.jpeg" width="180">
+<img src="./devPicture/AfreecaTV/afreeca_1.jpeg" width="150"> <img src="./devPicture/AfreecaTV/afreeca_2.jpeg" width="150"> <img src="./devPicture/AfreecaTV/afreeca_3.jpeg" width="150"> <img src="./devPicture/AfreecaTV/afreeca_4.jpeg" width="150">
 
 ## 활동
 
@@ -79,9 +79,7 @@ iOS Developer
 - 아키텍쳐 : MVC, MVVM
 - [Github Repository](https://github.com/Nexters/Amatda-iOS)
 
-<img src="./devPicture/Amatda/Amatda_1.jpeg" width="180"><img src="./devPicture/Amatda/Amatda_2.jpeg" width="180"><img src="./devPicture/Amatda/Amatda_3.jpeg" width="180"><img src="./devPicture/Amatda/Amatda_4.jpeg" width="180">
-
-<br/>
+<img src="./devPicture/Amatda/Amatda_1.jpeg" width="150"><img src="./devPicture/Amatda/Amatda_2.jpeg" width="150"><img src="./devPicture/Amatda/Amatda_3.jpeg" width="150"><img src="./devPicture/Amatda/Amatda_4.jpeg" width="150">
 
 ##### TipTap
 
@@ -93,9 +91,7 @@ iOS Developer
 - [AppStore](https://itunes.apple.com/kr/app/tiptap/id1439433799?mt=8)
 - [Github Repository](https://github.com/wjdgo813/TipTap_iOS)
 
-<img src="./devPicture/tiptap/tiptap.png" width="700">
-
-<br/>
+<img src="./devPicture/tiptap/tiptap.png" width="600">
 
 ##### 무덤덤
 
@@ -107,7 +103,7 @@ iOS Developer
 - [AppStore](https://itunes.apple.com/kr/app/%EB%AC%B4%EB%8D%A4%EB%8D%A4-%EC%9D%B5%EB%AA%85-sns-moodumdum/id1380253516?mt=8)
 - [Github Repository](https://github.com/wjdgo813/iOS-Moodumdum)
 
-<img src="./devPicture/Moodumdum/Moodumdum_4.jpeg" width="180"><img src="./devPicture/Moodumdum/Moodumdum_3.jpeg" width="180"><img src="./devPicture/Moodumdum/Moodumdum_2.jpeg" width="180"><img src="./devPicture/Moodumdum/Moodumdum_1.jpeg" width="180">
+<img src="./devPicture/Moodumdum/Moodumdum_4.jpeg" width="150"><img src="./devPicture/Moodumdum/Moodumdum_3.jpeg" width="150"><img src="./devPicture/Moodumdum/Moodumdum_2.jpeg" width="150"><img src="./devPicture/Moodumdum/Moodumdum_1.jpeg" width="150">
 
 
 
