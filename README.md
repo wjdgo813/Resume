@@ -18,7 +18,7 @@ iOS Developer
 - 소속 : AfreecaTV VOD본부 VOD플랫폼팀
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift, Objective - C, Realm, RxSwift
-- AppStore : [링크](https://itunes.apple.com/kr/app/%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4tv-afreecatv-korean/id334185830?mt=8)
+-  [AppStore](https://itunes.apple.com/kr/app/%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4tv-afreecatv-korean/id334185830?mt=8)
 
 - 업무내용
   - 라이브 플레이어 개편 (2019.01 ~ 진행중) 
@@ -56,18 +56,16 @@ iOS Developer
 
 ## 활동
 
-NEXTERS 11th CEO
+[NEXTERS](https://www.facebook.com/Nexterspage/) 11th CEO
 
 - 2017/09 ~ 2018/03
-- 디자이너와 개발자가 함께 모여 프로젝트를 진행하는 단체입니다.
-- [링크](https://www.facebook.com/Nexterspage/)
+- 디자이너와 개발자가 함께 모여 프로젝트를 진행하는 IT 단체입니다.
 
-UNITHON 6th 운영진
+[UNITHON](https://www.facebook.com/unithonWithU/) 6th 운영진
 
 - 2017/10 ~ 2018/02
 - IT 동아리들이 모여 진행하는 대학생 연합 해커톤입니다.
 
-- [링크](https://www.facebook.com/unithonWithU/)
 
 ## 개인 프로젝트
 
@@ -91,7 +89,7 @@ UNITHON 6th 운영진
 - 기간 : 2018.06 ~ 2019.01
 - 사용기술 : Swift, RxSwift
 - 아키텍쳐 : MVC, MVVM, VIPER
-- [Appstore](https://itunes.apple.com/kr/app/tiptap/id1439433799?mt=8)
+- [AppStore](https://itunes.apple.com/kr/app/tiptap/id1439433799?mt=8)
 - [Github Repository](https://github.com/wjdgo813/TipTap_iOS)
 
 <img src="./devPicture/tiptap/tiptap.png" width="700">
@@ -105,7 +103,7 @@ UNITHON 6th 운영진
 - 기간 : 2018.01 ~ 2019.03
 - 사용기술 : Swift
 - 아키텍쳐 : MVC, MVVM
-- [Appstore](https://itunes.apple.com/kr/app/%EB%AC%B4%EB%8D%A4%EB%8D%A4-%EC%9D%B5%EB%AA%85-sns-moodumdum/id1380253516?mt=8)
+- [AppStore](https://itunes.apple.com/kr/app/%EB%AC%B4%EB%8D%A4%EB%8D%A4-%EC%9D%B5%EB%AA%85-sns-moodumdum/id1380253516?mt=8)
 - [Github Repository](https://github.com/wjdgo813/iOS-Moodumdum)
 
 <img src="./devPicture/Moodumdum/Moodumdum_4.jpeg" width="180"><img src="./devPicture/Moodumdum/Moodumdum_3.jpeg" width="180"><img src="./devPicture/Moodumdum/Moodumdum_2.jpeg" width="180"><img src="./devPicture/Moodumdum/Moodumdum_1.jpeg" width="180">
