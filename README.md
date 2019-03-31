@@ -13,6 +13,7 @@ iOS Developer
 ## 경력
 
 [AfreecaTV](http://www.afreecatv.com/)
+
 - 2016.3 ~ now
 
 ## 회사 프로젝트
