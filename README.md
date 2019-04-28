@@ -17,7 +17,7 @@ iOS Developer
 
 ## 회사 프로젝트
 
-- 소속 : AfreecaTV VOD본부 VOD플랫폼팀
+- 소속 : AfreecaTV VOD본부 VOD플랫폼팀 
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift, Objective - C, Realm, RxSwift
 -  [AppStore](https://itunes.apple.com/kr/app/%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4tv-afreecatv-korean/id334185830?mt=8)
