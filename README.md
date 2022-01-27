@@ -13,6 +13,7 @@ iOS Developer
 ## 경력
 [Kakao Mobility](https://www.kakaomobility.com/)
 - 2019.8 ~ now
+
 [AfreecaTV](http://www.afreecatv.com/)
 - 2016.3 ~ 2019.7
 
