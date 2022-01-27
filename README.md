@@ -11,11 +11,17 @@ iOS Developer
 - Github : https://github.com/wjdgo813
 
 ## 경력
-
+[Kakao Mobility](https://www.kakaomobility.com/)
+- 2019.8 ~ now
 [AfreecaTV](http://www.afreecatv.com/)
-- 2016.3 ~ now
+- 2016.3 ~ 2019.7
 
 ## 회사 프로젝트
+- 소속: Kakao mobility t플랫폼iOS팀
+- 역할: iOS 바이크 개발
+- 사용기술: RxSwift
+-  [AppStore](https://apps.apple.com/kr/app/%EC%B9%B4%EC%B9%B4%EC%98%A4-t/id981110422)
+
 
 - 소속 : AfreecaTV VOD본부 VOD플랫폼팀 
 - 역할 : iOS 앱 개발
