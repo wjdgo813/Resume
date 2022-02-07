@@ -51,7 +51,7 @@ iOS, Swift, RxSwift, SwiftUI, Combine
       >
       > View와 ViewModel이 1:N 구조로 작업을 진행하였고, View는 ViewModel의 프로토콜에 접근하여 ViewModel 내부 구현체와의 디펜던시를 분리하여 킥보드의 ViewModel이던 바이크의 ViewModel이던 상관 없도록 프로젝트를 진행하였습니다.
 
-    <img src="./devPicture/kakaoT/bike1.PNG" width="150"><img src="./devPicture/kakaoT/bike2.PNG" width="150"><img src="./devPicture/kakaoT/bike3.PNG" width="150"><img src="./devPicture/kakaoT/bike4.PNG" width="150">
+    <img src="./devPicture/kakaoT/bike1.PNG" width="150"><img src="./devPicture/kakaoT/bike2.PNG" width="150"><img src="./devPicture/kakaoT/bike3.PNG" width="150"><img src="./devPicture/kakaoT/bike4.png" width="150">
 
   - 블루투스 모듈 리팩토링 
 
@@ -135,19 +135,51 @@ iOS, Swift, RxSwift, SwiftUI, Combine
 - 2017/10 ~ 2018/02
 - IT 동아리들이 모여 진행하는 대학생 연합 해커톤입니다.
 
-
 ## 개인 프로젝트
 
-##### 아맞다
+#### yaho
 
-여행 준비물 체크리스트 서비스
+등산 기록 앱
 
-- 기간 : 2019.01 ~ 진행중 
-- 사용기술 : Swift, RxSwift, Realm, SnapKit
-- 아키텍쳐 : MVC, MVVM
-- [Github Repository](https://github.com/Nexters/Amatda-iOS)
+- 기간: 2021.7 ~ 2021.9
+- 사용기술: RxSwift, Ribs
+- [AppStore](https://apps.apple.com/kr/app/yaho-%EB%93%B1%EC%82%B0-%EA%B8%B0%EB%A1%9D-%EC%95%B1/id1588082150)
+- [Github Repository](https://github.com/wjdgo813/yaho)
 
-<img src="./devPicture/Amatda/Amatda_1.jpeg" width="150"><img src="./devPicture/Amatda/Amatda_2.jpeg" width="150"><img src="./devPicture/Amatda/Amatda_3.jpeg" width="150"><img src="./devPicture/Amatda/Amatda_4.jpeg" width="150">
+<img src="./devPicture/yaho/screen.PNG">
+
+##### PaceMaker
+
+달리기 기록 앱
+
+- 기간: 2021.3 ~ 2021.5
+- 사용기술: RxSwift, MVVM
+- [AppStore](https://apps.apple.com/kr/app/pacemaker-running-app/id1564698112)
+- [Github Repository](https://github.com/wjdgo813/PaceMaker)
+
+<img src="./devPicture/pacemaker/pace1.PNG" width="150"><img src="./devPicture/pacemaker/pace2.PNG" width="150"><img src="./devPicture/pacemaker/pace3.PNG" width="150"><img src="./devPicture/pacemaker/pace4.PNG" width="150">
+
+##### 토닥토닥
+
+근처의 병원과 약국 정보를 간단하게 찾을 수 있는 앱
+
+- 기간: 2020.01~ 2020.03
+- 사용기술: ReactorKit, Clean Architecture, RxSwift, SnapKit
+- [AppStore](https://apps.apple.com/kr/app/%ED%86%A0%EB%8B%A5%ED%86%A0%EB%8B%A5-todoc/id1499183782)
+- [Github Repository](https://github.com/Nexters/doctor24_iOS)
+
+<img src="./devPicture/todoc/screen1.PNG" width="150"><img src="./devPicture/todoc/screen2.PNG" width="150"><img src="./devPicture/todoc/screen3.PNG" width="150"><img src="./devPicture/todoc/screen4.PNG" width="150"><img src="./devPicture/todoc/screen5.PNG" width="150"><img src="./devPicture/todoc/screen6.PNG" width="150"><img src="./devPicture/todoc/screen7.PNG" width="150">
+
+##### Plock
+
+장소에 기록하는 사진과 일기 앱
+
+- 기간: 2019.08 ~ 2019.10
+- 사용기술: RxSwift, MVVM, SnapKit
+- [AppStore](https://apps.apple.com/us/app/plock/id1480478048)
+- [Github Repository](https://github.com/Nexters/Plock-iOS)
+
+<img src="./devPicture/plock/plock1.PNG" width="150"><img src="./devPicture/plock/plock2.PNG" width="150"><img src="./devPicture/plock/plock3.PNG" width="150"><img src="./devPicture/plock/plock4.PNG" width="150">
 
 ##### TipTap
 
