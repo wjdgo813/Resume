@@ -168,7 +168,7 @@ iOS, Swift, RxSwift, SwiftUI, Combine
 - [AppStore](https://apps.apple.com/kr/app/%ED%86%A0%EB%8B%A5%ED%86%A0%EB%8B%A5-todoc/id1499183782)
 - [Github Repository](https://github.com/Nexters/doctor24_iOS)
 
-<img src="./devPicture/todoc/screen1.PNG" width="150"><img src="./devPicture/todoc/screen2.PNG" width="150"><img src="./devPicture/todoc/screen3.PNG" width="150"><img src="./devPicture/todoc/screen4.PNG" width="150"><img src="./devPicture/todoc/screen5.PNG" width="150"><img src="./devPicture/todoc/screen6.PNG" width="150"><img src="./devPicture/todoc/screen7.PNG" width="150">
+<img src="./devPicture/todoc/screen1.png" width="150"><img src="./devPicture/todoc/screen2.png" width="150"><img src="./devPicture/todoc/screen3.png" width="150"><img src="./devPicture/todoc/screen4.png" width="150"><img src="./devPicture/todoc/screen5.png" width="150"><img src="./devPicture/todoc/screen6.png" width="150"><img src="./devPicture/todoc/screen7.png" width="150">
 
 ##### Plock
 
