@@ -23,7 +23,7 @@ iOS, Swift, RxSwift, SwiftUI, Combine
 - 2016.3 ~ 2019.7
 
 ## 회사 프로젝트
-- 소속: Kakao mobility t플랫폼iOS팀
+#### Kakao mobility
 
 - 역할: iOS T 앱 개발
 
@@ -85,7 +85,8 @@ iOS, Swift, RxSwift, SwiftUI, Combine
 
     <img src="./devPicture/kakaoT/rentcar1.png" width="150"><img src="./devPicture/kakaoT/rentcar2.png" width="150"><img src="./devPicture/kakaoT/rentcar3.png" width="150"><img src="./devPicture/kakaoT/rentcar4.png" width="150"><img src="./devPicture/kakaoT/rentcar5.png" width="150"><img src="./devPicture/kakaoT/rentcar6.png" width="150"><img src="./devPicture/kakaoT/rentcar7.png" width="150"><img src="./devPicture/kakaoT/rentcar8.png" width="150"><img src="./devPicture/kakaoT/rentcar9.png" width="150">
 
-- 소속 : AfreecaTV 
+#### AfreecaTV 
+
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift, Objective - C, Realm, RxSwift
 - [AppStore](https://itunes.apple.com/kr/app/%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4tv-afreecatv-korean/id334185830?mt=8)
