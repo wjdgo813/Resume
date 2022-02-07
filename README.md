@@ -7,7 +7,6 @@ iOS Developer
 - 이름 : 정해현 
 - 연락처 : 010-2543-6349
 - Email : wjdgo50@gmail.com
-- Facebook : https://www.facebook.com/wjdgo813
 - Github : https://github.com/wjdgo813
 
 ## 경력
@@ -20,9 +19,10 @@ iOS Developer
 ## 회사 프로젝트
 - 소속: Kakao mobility t플랫폼iOS팀
 - 역할: iOS 바이크 개발
-- 사용기술: RxSwift
+- 사용기술: RxSwift, MVVM, Swift UI, Combine
 -  [AppStore](https://apps.apple.com/kr/app/%EC%B9%B4%EC%B9%B4%EC%98%A4-t/id981110422)
 
+- 업무내용
 
 - 소속 : AfreecaTV VOD본부 VOD플랫폼팀 
 - 역할 : iOS 앱 개발
