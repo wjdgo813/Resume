@@ -146,7 +146,7 @@ iOS, Swift, RxSwift, SwiftUI, Combine
 - [AppStore](https://apps.apple.com/kr/app/yaho-%EB%93%B1%EC%82%B0-%EA%B8%B0%EB%A1%9D-%EC%95%B1/id1588082150)
 - [Github Repository](https://github.com/wjdgo813/yaho)
 
-<img src="./devPicture/yaho/screen.PNG">
+<img src="./devPicture/yaho/screen.png">
 
 ##### PaceMaker
 
