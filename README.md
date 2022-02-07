@@ -51,7 +51,7 @@ iOS, Swift, RxSwift, SwiftUI, Combine
       >
       > View와 ViewModel이 1:N 구조로 작업을 진행하였고, View는 ViewModel의 프로토콜에 접근하여 ViewModel 내부 구현체와의 디펜던시를 분리하여 킥보드의 ViewModel이던 바이크의 ViewModel이던 상관 없도록 프로젝트를 진행하였습니다.
 
-    <img src="./devPicture/kakaoT/bike1.png" width="150"><img src="./devPicture/kakaoT/bike2.png" width="150"><img src="./devPicture/kakaoT/bike3.png" width="150"><img src="./devPicture/kakaoT/bike4.png" width="150">
+    <img src="./devPicture/kakaoT/bike1.PNG" width="150"><img src="./devPicture/kakaoT/bike2.PNG" width="150"><img src="./devPicture/kakaoT/bike3.PNG" width="150"><img src="./devPicture/kakaoT/bike4.PNG" width="150">
 
   - 블루투스 모듈 리팩토링 
 
