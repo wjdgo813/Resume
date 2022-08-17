@@ -21,6 +21,7 @@ iOS, Swift, RxSwift, SwiftUI, Combine
   - 카카오 바이크
   - 카카오 렌터카
   - 카카오 해외택시
+  - 카카오 퀵
 - 사용기술: RxSwift, MVVM, Swift UI, Combine
 - [AppStore](https://apps.apple.com/kr/app/%EC%B9%B4%EC%B9%B4%EC%98%A4-t/id981110422)
 
