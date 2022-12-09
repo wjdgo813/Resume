@@ -14,9 +14,15 @@ iOS Developer
 iOS, Swift, RxSwift, SwiftUI, Combine
 
 ## 경력
+#### Naver Webtoon
+
+- 기간: 2022.10 ~ now
+- 역할: Global webtoon
+- 사용기술: RxSwift, Swift, MVVM, ReactorKit
+
 #### Kakao mobility
 
-- 기간: 2019.8 ~ now
+- 기간: 2019.8 ~ 2020.9
 - 역할: KakaoT 앱 개발 
   - 카카오 바이크
   - 카카오 렌터카
