@@ -22,7 +22,7 @@ iOS, Swift, RxSwift, SwiftUI, Combine
 
 #### Kakao mobility
 
-- 기간: 2019.8 ~ 2020.9
+- 기간: 2019.8 ~ 2022.9
 - 역할: KakaoT 앱 개발 
   - 카카오 바이크
   - 카카오 렌터카
